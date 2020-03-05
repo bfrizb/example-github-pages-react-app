@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/example-github-pages-react-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/example-github-pages-react-app/static/js/main.07b14b32.chunk.js",
+    "main.js.map": "/example-github-pages-react-app/static/js/main.07b14b32.chunk.js.map",
+    "runtime-main.js": "/example-github-pages-react-app/static/js/runtime-main.81fc79f0.js",
+    "runtime-main.js.map": "/example-github-pages-react-app/static/js/runtime-main.81fc79f0.js.map",
+    "static/js/2.6fb53dc5.chunk.js": "/example-github-pages-react-app/static/js/2.6fb53dc5.chunk.js",
+    "static/js/2.6fb53dc5.chunk.js.map": "/example-github-pages-react-app/static/js/2.6fb53dc5.chunk.js.map",
+    "index.html": "/example-github-pages-react-app/index.html",
+    "precache-manifest.7741f27b4b1e1e4f7b1873441a42fb79.js": "/example-github-pages-react-app/precache-manifest.7741f27b4b1e1e4f7b1873441a42fb79.js",
+    "service-worker.js": "/example-github-pages-react-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/example-github-pages-react-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6fb53dc5.chunk.js.LICENSE": "/example-github-pages-react-app/static/js/2.6fb53dc5.chunk.js.LICENSE",
+    "static/media/logo.svg": "/example-github-pages-react-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81fc79f0.js",
+    "static/js/2.6fb53dc5.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.07b14b32.chunk.js"
+  ]
+}
